@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Enkanomiya Kernel for Redmi Note 4(x) mido by Rsyd
+kernel.string=Enkanomiya Kernel v4.9 for Redmi Note 4(x) mido by Rsyd
 do.devicecheck=1
 do.modules=0
 do.systemless=0
